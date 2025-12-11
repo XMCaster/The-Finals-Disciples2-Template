@@ -1,5 +1,5 @@
 v1.02
-- Релиз в Лаунчере iSkromny
+- Релиз в D2Launcher от iSkromny
 
 
 v1.01
