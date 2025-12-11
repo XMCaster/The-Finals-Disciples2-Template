@@ -621,7 +621,7 @@ end
 -- ШАБЛОН
 
 template = {
-	name = "The Finals 1.02",
+	name = 'The Finals 1.02',
 	description = descrtemp,
 	minSize = 48,
 	maxSize = 48,
